@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Head High",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T03:00:37.606877Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Head High",
+      "artist": "Mr. Lif",
+      "has_synced": false,
+      "path": "select/01_Head_High_Mr._Lif.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hold Your Head High",
+      "artist": "AlunaGeorge",
+      "has_synced": true,
+      "path": "select/02_Hold_Your_Head_High_AlunaGeorge.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hold Your Head High (Bonus Track)",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/03_Hold_Your_Head_High_(Bonus_Track)_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Head High",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Head_High_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Head High",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Head_High_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hold Your Head High",
+      "artist": "Jackie DeShannon",
+      "has_synced": false,
+      "path": "select/06_Hold_Your_Head_High_Jackie_DeShannon.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Head High",
+      "artist": "Joey Bada$$",
+      "has_synced": true,
+      "path": "select/07_Head_High_Joey_Bada$$.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hold Your Head High",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/08_Hold_Your_Head_High_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Head High Heavy Heart",
+      "artist": "I Built the Cross",
+      "has_synced": false,
+      "path": "select/09_Head_High_Heavy_Heart_I_Built_the_Cross.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Will Hold My Head High",
+      "artist": "Third Day",
+      "has_synced": true,
+      "path": "select/10_I_Will_Hold_My_Head_High_Third_Day.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keep Your Head High Bella Mae",
+      "artist": "Dallas Crane",
+      "has_synced": false,
+      "path": "select/11_Keep_Your_Head_High_Bella_Mae_Dallas_Crane.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hold Your Head High",
+      "artist": "Heartless Bastards",
+      "has_synced": true,
+      "path": "select/12_Hold_Your_Head_High_Heartless_Bastards.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pictures in My Head (High Contrast Remix)",
+      "artist": "MJ Cole",
+      "has_synced": true,
+      "path": "select/13_Pictures_in_My_Head_(High_Contrast_Remix)_MJ_Cole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Head High",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Head_High_ONE_OK_ROCK.txt"
+    }
+  ]
+}
