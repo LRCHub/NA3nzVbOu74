@@ -1,0 +1,35 @@
+# ONE OK ROCK – Head High
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.98] Yeah, they tried to stop me
+[00:03.80] But it was too late
+[00:06.01] Oh, there's no interfering my fate
+[00:10.56] They was trying to hold me in every way
+[00:15.07] Thinking I've taken everything I could take
+[00:20.04] Everybody's challenge turning into mine
+[00:24.74] And overcame adversity
+[00:28.19] With my head high, my
+[00:34.50] Make a stand with my head high, my
+[00:44.61] I'm not afraid to love, I'm not afraid to try, I'm not afraid to fly
+[00:55.45] With my head high, my
+[01:05.14] No, it wasn't easy, but everyday
+[01:09.32] Oh, I took one step closer to change
+[01:13.88] They didn't wanna see me break these chains
+[01:18.62] Being more than just a name and a face
+[01:23.18] 昨日も明日も越えて
+[01:28.14] 更にそのもっと先へ
+[01:31.87] With my head high, my
+[01:39.00] Make a stand with my head high, my
+[01:50.02] I'm not afraid to love, I'm not afraid to try, I'm not afraid to fly
+[01:58.83] With my head high, my
+[02:09.04] Oh, oh, oh, oh, oh
+[02:17.78] Oh, oh, oh, oh, oh
+[02:26.03] With my head high, my
+[02:33.18] Make a stand with my head high, my
+[02:43.81] With my head high, my
+[02:51.50] Make a stand with my head high, my
+[03:02.09] I'm not afraid to love, I'm not afraid to try, I'm not afraid to fly
+[03:11.29] With my head high, my
+```
